@@ -1,2 +1,2 @@
 # blur-test
-test
+https://unlocomqx.github.io/blur-test/
